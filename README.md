@@ -61,4 +61,4 @@ If your language is not among the existing languages, you can add your own langu
 ![Hotspot Change SSID](https://github.com/efebilici/hotspot-controller/assets/75431535/2c5eda80-8db4-4df5-ab8d-2a88905cc503)
 
 
-Developed by: Mehmet Efe Bilici
+Developed by Mehmet Efe Bilici
