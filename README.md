@@ -14,7 +14,7 @@ The Hotspot Controller allows you to share the internet using Hotspot on your Wi
 - Multiple language options
 
 # Installation:
-- .NET Framework 7 must be installed. Click to download.
+- .NET Framework 7 must be installed. https://dotnet.microsoft.com/en-us/download/dotnet/7.0
 - It only works on Windows devices.
 
 1. The program works in a portable manner. Download the HotspotControl.zip file and unzip it.
