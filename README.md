@@ -12,6 +12,10 @@ The Hotspot Controller allows you to share the internet using Hotspot on your Wi
 - Change Hotspot SSID
 - Start and Stop Hotspot
 - Multiple language options
+- Keep Hotspot Always On
+- Update Control
+- Run in the Background
+- Control running in the background with NotifyIcon
 
 # Installation:
 - .NET Framework 7 must be installed. https://dotnet.microsoft.com/en-us/download/dotnet/7.0
@@ -42,6 +46,12 @@ The Hotspot Controller allows you to share the internet using Hotspot on your Wi
 - Chinese
 - Japanese
 - Hindi
+- Urdu
+- Kazakh Turkish
+- Kyrgyz Turkish
+- Uzbekistan Turkish
+- Turkmenistan Turkish
+- Hungarian
 
 # Localization:
 If your language is not among the existing languages, you can add your own language to the program.
